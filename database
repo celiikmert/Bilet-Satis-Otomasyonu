@@ -1,0 +1,8 @@
+import sqlite3
+
+baglanti = sqlite3.connect("celikbilet.db")
+
+imlec = baglanti.cursor()
+
+imlec.execute("CREATE TABLE IF NOT EXISTS veri(isim TEXT, film TEXT, konser TEXT, mac TEXT, ucret INT)")
+
