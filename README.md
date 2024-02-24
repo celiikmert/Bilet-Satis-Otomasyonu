@@ -1,4 +1,4 @@
-# Bilet-Satis-Programi-
+# Bilet-Satis-Otomasyonu-
 
 Python dili ile biletix.com internet sitesinden esinlenerek bilet satış programı yaptım.
-fonksiyon, sınıf, döngü, sqlite kullandım.
+Fonksiyon, sınıf, döngü, sqlite kullandım.
